@@ -14,8 +14,7 @@ int main(){
     led_set(0,0);
     //led_draw();
     //led_draw();
-    led_set(4,4);
-    led_clear(0,0);
+    led_set(0,3);
 
     while(1){
         led_draw();
